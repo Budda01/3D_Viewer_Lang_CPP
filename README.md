@@ -1,7 +1,4 @@
 # s21_3DViewer_v1.0
-
-![Header](img/header.jpg)
-
 ## Содержание
 
 ## Описание
